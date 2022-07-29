@@ -1,4 +1,4 @@
 # Pilha-C
 Projeto Estrutura de Dados.
 
-Aplicação pequeno projeto aplicando os conceitos de pilha em C.
+Aplicação aplicando os conceitos de pilha em C.
