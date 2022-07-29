@@ -1,4 +1,8 @@
 # Pilha-C
 Projeto Estrutura de Dados.
 
-Aplicação aplicando os conceitos de pilha em C.
+Aplicações aplicando os conceitos em C de:
+
+- Pilha estática dinâmica
+
+- Fila estática,dinâmica, Circular e duplamente encadeada.
